@@ -25,6 +25,6 @@ and
 
 * **Step 4**: Launch **Anaconda Navigator**, select the **tf_training** environment, run the Jupyter notebook and enjoy...
 
- ## Further resources
+## Further resources
  
- * (French) [Construire un modèle prédictif avec Tensorflow](https://www.slideshare.net/EricBustarret1/construire-un-modle-prdictif-avec-tensorflow)
+* (French) [Construire un modèle prédictif avec Tensorflow](https://www.slideshare.net/EricBustarret1/construire-un-modle-prdictif-avec-tensorflow): a slideware corresponding to the "TF DNN Classification" notebook
