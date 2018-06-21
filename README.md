@@ -20,6 +20,8 @@ and
     conda install pandas
     conda install scikit-learn
     conda install matplotlib
+    conda install keras
+    conda install h5py
     pip install --upgrade tensorflow 
 ```
 
